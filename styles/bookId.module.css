@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    padding: 3rem
+}
+
+.infoCard{
+    font-display: column;
+    padding-left: 1rem
+}
+
+.image{
+    width: 20rem;
+    height: 20rem
+}

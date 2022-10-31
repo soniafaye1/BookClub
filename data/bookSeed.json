@@ -1,0 +1,61 @@
+
+   {
+   "book_1": {
+    "key": "OL21177W",
+    "title": "Wuthering Heights",
+    "subject": "Drama",
+    "author_key": "/authors/OL4327048A",
+    "author_name": "Emily Brontë"
+    },
+    
+    "book_2":{
+    "key": "OL362427W",
+    "title": "Romeo and Juliet",
+    "subject": "Classical Literature",
+    "author_key": "/authors/OL9388A",
+    "author_name": "William Shakespeare"
+    },
+    
+    "book_3":{
+    "key": "OL98501W",
+    "title": "Ethan Frome",
+    "subject": "Fiction",
+    "author_key": "/authors/OL20188A",
+    "author_name": "Edith Wharton"
+    },
+    
+    "book_4":{
+    "key": "OL27776452W",
+    "title": "Importance of Being Earnest",
+    "subject": "Classic Literature",
+    "author_key": "/authors/OL20646A",
+    "author_name": "Oscar Wilde"
+    },
+    
+    "book_5":{
+    "key": "OL267096W",
+    "title": "Anna Karénina",
+    "subject": "Classic Literature",
+    "author_key": "/authors/OL26783A",
+    "author_name": "Lev Nikolaevič Tolstoy"
+    },
+    
+    
+    "book_6":{
+    "key": "OL551668W",
+    "title": "Cyrano de Bergerac",
+    "subject": "Drama",
+    "author_key": "/authors/OL39281A",
+    "author_name": "Edmond Rostand"
+    },
+    
+    "book_7":{
+    "key": "OL10264W",
+    "title": "Le Petit Prince",
+    "subject": "Classic Literature",
+    "author_key": "/authors/OL31901A",
+    "author_name": "Antoine de Saint-Exupéry"
+    }
+    
+}
+    
